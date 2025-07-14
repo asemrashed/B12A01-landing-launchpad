@@ -130,6 +130,7 @@ body {
 .user h1{
     color:#4E47FF;
     font-size: 80px;
+    font-family: Inter, sans-serif;
 }
 .user p{
     color: rgba(0, 0, 0, 0.5);
@@ -258,7 +259,7 @@ body {
     border-radius: 10px;
     margin: 10px 0px;
     font-size: 20px;
-    font-family: Intar, sans-serif;
+    font-family: Inter, sans-serif;
 }
 .submit{
     width: 107%;
