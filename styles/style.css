@@ -1,8 +1,17 @@
 * {
     margin: 0;
     padding: 0;
-}
-
+} 
+.raleway-regular {
+      font-family: "Raleway", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 400; /* Regular */
+      font-style: normal;
+    }
+    .raleway-bold {
+      font-family: "Raleway", sans-serif;
+      font-weight: 700; /* Bold */
+    }
 body {
     font-family: Raleway, sans-serif;
     background-color: #4d47ff11;
@@ -85,7 +94,7 @@ body {
 .content p{
     color: #25243294;
     font-size: 21px;
-    font-weight: 100;
+    font-weight: 300;
 }
 .content button {
     width: 50%;
@@ -242,14 +251,14 @@ body {
     margin: 10px 0px;
     font-size: 20px;
 }
-#message {
+#message-input {
     width: 100%;
     padding: 20px 0px 20px 30px;
     border: none;
     border-radius: 10px;
     margin: 10px 0px;
     font-size: 20px;
-    font-family: Raleway, sans-serif;
+    font-family: Intar, sans-serif;
 }
 .submit{
     width: 107%;
